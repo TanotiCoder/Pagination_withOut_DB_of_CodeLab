@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android Project after reset/Pagination3Google/app/src/main/res/drawable/ic_eye.xml" value="0.2265" />
+        <entry key="..\:/Android Project after reset/Pagination3Google/app/src/main/res/drawable/ic_git_branch.xml" value="0.2265" />
+        <entry key="..\:/Android Project after reset/Pagination3Google/app/src/main/res/drawable/ic_star.xml" value="0.2265" />
+        <entry key="..\:/Android Project after reset/Pagination3Google/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Android Project after reset/Pagination3Google/app/src/main/res/layout/repo_view_item.xml" value="0.25" />
+        <entry key="..\:/Android Project after reset/Pagination3Google/app/src/main/res/layout/repos_load_state_footer_view_item.xml" value="0.20512820512820512" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

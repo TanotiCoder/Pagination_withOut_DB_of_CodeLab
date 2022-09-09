@@ -1,0 +1,40 @@
+
+buildscript {
+    repositories {
+        google()
+        mavenCentral()
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:7.0.4'
+        classpath 'org.jetbrains.kotlin:kotlin-gradle-plugin:1.5.21'
+    }
+}
+
+allprojects {
+    repositories {
+        google()
+        mavenCentral()
+
+    }
+}
+
+task clean(type: Delete) {
+    delete rootProject.buildDir
+}
+
+ext {
+    compileSdkVersion = 31
+    minSdkVersion = 15
+    targetSdkVersion = 31
+    supportLibVersion = '1.4.0'
+    coreVersion = '1.7.0'
+    recyclerViewVersion = '1.2.1'
+    constraintLayoutVersion = '2.1.2'
+    materialVersion = '1.4.0'
+    lifecycleVersion = '2.4.0'
+    roomVersion = '2.3.0'
+    pagingVersion = '3.1.0'
+    retrofitVersion = '2.9.0'
+    okhttpLoggingInterceptorVersion = '4.9.0'
+    coroutines = '1.5.2'
+}
